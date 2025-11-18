@@ -8,4 +8,4 @@ def test_main_prints_performance_report(cli_args_performance, capsys):
     out = captured.out
 
     assert "Backend" in out
-    assert "5.0" in out
+    assert "5.00" in out

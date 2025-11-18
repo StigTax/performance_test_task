@@ -49,7 +49,7 @@ def get_performance(rows):
             headers='keys',
             tablefmt='github',
             showindex=range(1, len(table) + 1),
-            floatfmt=".1f",
+            floatfmt=".2f",
         )
     )
 
