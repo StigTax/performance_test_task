@@ -63,3 +63,7 @@
 
 [Отчёт по performance](image/report.png)
 <img src="image/report.png" alt="Отчёт по performance" width="600">
+
+Разработал: [Ефремчев Никита](https://github.com/StigTax)
+[Хабр](https://career.habr.com/nefremchev)
+[HH](https://balashiha.hh.ru/resume/5a678dceff0e91ffcf0039ed1f536251434570)
