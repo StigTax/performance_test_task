@@ -61,4 +61,4 @@
 
 # Скриншоты вывода.
 
-[Отчёт по performance](images/report.png)
+[Отчёт по performance](image/report.png)
