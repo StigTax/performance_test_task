@@ -61,4 +61,4 @@
 
 # Скриншоты вывода.
 
-[Отчёт по performance](image/report.png)
+<img src="images/report.png" alt="Отчёт по performance" width="600">
